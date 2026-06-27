@@ -30,12 +30,12 @@ pip install requests colorama
 
 Basic usage:
 ```bash
-python3 phpmyadmin_pentest.py [target_url]
+python3 bruter.py [target_url]
 ```
 
 Or run without arguments for interactive mode:
 ```bash
-python3 phpmyadmin_pentest.py
+python3 bruter.py
 ```
 
 ### Modes Available:
